@@ -32,6 +32,10 @@ To use these configurations:
 
 Note: These configurations are tailored to my personal setup and preferences. Feel free to modify them to suit your needs.
 
+## Dependencies
+
+These configurations may require specific fonts to render correctly. The recommended fonts can be downloaded from [Nerd Fonts](https://www.nerdfonts.com/font-downloads). Select and install a font of your choice from their extensive collection to ensure proper display of icons and glyphs in the terminal.
+
 ## Contributing
 
 Feel free to fork this repository and customize the configurations. If you have any suggestions or improvements, please submit a pull request.
