@@ -1,30 +1,11 @@
 [env]
 TERM = "xterm-256color"
 
-# [font]
-# normal = { family = "Hack Nerd Font Mono", style = "Regular"  }
-# bold = { family = "Hack Nerd Font Mono", style = "Bold"  }
-# italic = { family = "Hack Nerd Font Mono", style = "Italic"  }
-# bold_italic = { family = "Hack Nerd Font Mono", style = "Bold Italic"  }
-# normal = { family = "PowerlineSymbols", style = "Medium"  }
-
-# [font]
-# normal = { family = "Source Code Pro for Powerline", style = "Regular"  }
-# bold = { family = "Source Code Pro for Powerline", style = "Bold"  }
-# italic = { family = "Source Code Pro for Powerline", style = "Italic"  }
-# bold_italic = { family = "Source Code Pro for Powerline", style = "Bold Italic"  }
-# normal = { family = "PowerlineSymbols", style = "Medium"  }
-
-# [font]
-# normal = { family = "DejaVu Sans Mono for Powerline", style = "Book"  }
-# bold = { family = "Source Code Pro for Powerline", style = "Bold"  }
-# italic = { family = "Source Code Pro for Powerline", style = "Oblique"  }
-# bold_italic = { family = "Source Code Pro for Powerline", style = "Bold Oblique"  }
-# normal = { family = "PowerlineSymbols", style = "Medium"  }
-
-# [font]
-# normal = { family = "PowerlineSymbols", style = "Medium"  }
-
+[font]
+normal = { family = "Hack Nerd Font Mono", style = "Regular"  }
+bold = { family = "Hack Nerd Font Mono", style = "Bold"  }
+italic = { family = "Hack Nerd Font Mono", style = "Italic"  }
+bold_italic = { family = "Hack Nerd Font Mono", style = "Bold Italic"  }
 
 [keyboard]
 bindings = [
